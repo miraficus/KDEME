@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Kdeme
+Comment=My custom Aurorae window decoration
+X-KDE-PluginInfo-Author=Miraficus
+X-KDE-PluginInfo-Email=your@email.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Category=Window Decoration
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-EnabledByDefault=true
